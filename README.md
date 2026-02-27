@@ -69,7 +69,7 @@ Helps identify top-performing clients and revenue drivers.
 
 Shows monthly sales trend with an average sales reference line.
 
-![Monthly Sales](salesdata.jpg)
+![Monthly Sales](contime.jpg)
 
 **Insight:**  
 Highlights seasonal trends and peak performance months.
