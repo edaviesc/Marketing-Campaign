@@ -65,14 +65,14 @@ Helps identify top-performing clients and revenue drivers.
 
 ---
 
-## 2️⃣ Marketing Company Monthly Sales
+## 2️⃣ Conversions Over Time
 
-Shows monthly sales trend with an average sales reference line.
+Shows total conversions grouped by campaign start date.
 
-![Monthly Sales](contime.jpg)
+![Conversions Over Time](contime.jpg)
 
 **Insight:**  
-Highlights seasonal trends and peak performance months.
+Reveals performance trends, spikes, and potential anomalies in campaign timing.
 
 ---
 
